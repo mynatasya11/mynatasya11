@@ -1,18 +1,18 @@
 I’m B Natasya, 
 
 I am PhD students in the Departement Bioresource Economic at Ehime Eniversity Japan. 
-My research interest about how woman take decision in their household and dealing with system in society. 
+My research interest about how woman take decision in their household and dealing with system in society including decision making, gender, land use and rural development. 
 I primarily use laboratory and field experiments. 
 
 In my previous role, I was a research scientist at 
-The Center of Excellence for Interdisciplinary and Sustainability Science (CEISS) Universitas Hasanuddin. 
-I worked on a variety of projects. I also worked on developing new tools and resources for the natural language processing community.
-I am passionate about using technology to solve real-world problems. 
+The Center of Excellence for Interdisciplinary and Sustainability Science (CEISS) Universitas Hasanuddin. I am member of Organization for Women in Science for the Developing World (OWSD). 
+I worked on a variety of projects. 
+I am passionate about using technology to solve real-world problems. Currently I worked using R-stats and 
 I believe that natural language processing has the potential to revolutionize the way we interact with computers. 
 I am excited to continue my research and to make a positive impact on the world.
 
 I received my Master in Rural Development in Ehime Unversity in Septempber 2019. 
-You can find my CV here. [CV B Natasya.pdf](https://github.com/mynatasya11/mynatasya11/files/11778556/CV.B.Natasya.pdf)
+You can find my CV [here](https://github.com/mynatasya11/mynatasya11/files/11778571/here.pdf)
 
 You can contact me on 
 
