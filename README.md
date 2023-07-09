@@ -1,4 +1,4 @@
-I’m B Natasya, 
+B Natasya, 
 
 I am Ph.D. student in the Department of Bioresource Economics at Ehime University Japan. 
 My research interest is about how women take decisions in their households and deal with systems in society including decision-making, gender, land use, and rural development. 
